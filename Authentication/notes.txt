@@ -1,0 +1,6 @@
+hashing 1 way
+encryption 2 way (keys)
+Json web tokens
+local storage
+
+jwt
